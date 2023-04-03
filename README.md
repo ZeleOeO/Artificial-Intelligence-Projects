@@ -2,6 +2,6 @@
 A repo of my progress with A.I. and Deep Learning
 
 ## Projects
- #####-Sarcasm Detetcion - NLP (tutorial)
- #####-Negative Positive News - NLP
- #####-Poem Generator - NLP (tutorial)
+ ##### - Sarcasm Detetcion - NLP (tutorial)
+ ##### - Negative Positive News - NLP
+ ##### - Poem Generator - NLP (tutorial)
